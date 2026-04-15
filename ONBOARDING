@@ -1,0 +1,108 @@
+ONBOARDING GUIDE FOR NEW COLLABORATORS
+This will help new contributors understand the project quickly and feel welcomed.
+
+ONBOARDING.md
+Welcome to Royal Archer — A Guide for New Collaborators
+Thank you for your interest in contributing to Royal Archer Editorial Studio.
+This guide will help you get oriented, understand the project structure,
+and begin contributing with confidence.
+
+1. What Royal Archer Is
+Royal Archer is a creative and editorial platform offering:
+
+editorial and publishing services
+
+creative writing and storytelling
+
+educational courses and articles
+
+digital tools for writers and readers
+
+community collaboration
+
+future co‑ownership opportunities
+
+This repository contains the technical and creative foundation of the platform.
+
+2. Getting Started
+Step 1 — Explore the Repository
+Familiarize yourself with:
+
+README.md — project overview
+
+CONTRIBUTING.md — how to contribute
+
+COLLABORATION‑TERMS.md — collaboration rules
+
+CODE_OF_CONDUCT.md — community expectations
+
+Step 2 — Set Up Your Environment
+Depending on the project stage, setup instructions may include:
+
+installing dependencies
+
+running local development tools
+
+reviewing documentation
+
+3. Understanding the Project Structure
+Typical folders may include:
+
+/src — source code
+
+/content — editorial or educational materials
+
+/design — UI/UX assets
+
+/docs — documentation
+
+/community — collaboration resources
+
+As the project grows, this structure can evolve.
+
+4. How to Contribute
+You can contribute through:
+
+pull requests
+
+issues
+
+discussions
+
+documentation updates
+
+design proposals
+
+editorial improvements
+
+See CONTRIBUTING.md for full details.
+
+5. Communication
+Use GitHub Issues for:
+
+questions
+
+proposals
+
+bugs
+
+ideas
+
+Clear communication helps the project grow smoothly.
+
+6. Path to Deeper Collaboration
+If you want to become more involved:
+
+contribute consistently
+
+participate in discussions
+
+align with the project’s mission
+
+express interest in long‑term collaboration
+
+Future co‑ownership is possible through a separate written agreement.
+
+7. Thank You
+Your creativity, skill, and time are deeply appreciated.
+Welcome to Royal Archer — we’re glad you’re here.
