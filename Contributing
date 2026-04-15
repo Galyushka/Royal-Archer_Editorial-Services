@@ -1,0 +1,181 @@
+CONTRIBUTING.md
+Guidelines for Contributing to the Royal Archer Project
+Thank you for your interest in contributing to Royal Archer, 
+an editorial studio dedicated to elevating stories, 
+nurturing writers, and building tools that support creativity, 
+clarity, and craft.
+Your participation helps shape a platform where literature, 
+education, and digital innovation meet.
+
+🌟 1. Our Mission
+Royal Archer exists to support:
+
+editorial and publishing services
+
+creative writing and storytelling
+
+educational courses and articles
+
+digital tools and services for writers and readers
+
+community collaboration and mentorship
+
+future co‑ownership opportunities for long‑term contributors
+
+This repository contains the technical and creative foundations of the Royal Archer ecosystem.
+Contributions should strengthen the platform’s quality, clarity, and usefulness.
+
+🛠️ 2. Ways You Can Contribute
+We welcome contributions from many disciplines:
+
+Technical Contributions
+features, improvements, and bug fixes
+
+digital tools for writers, editors, and learners
+
+automation, integrations, and backend logic
+
+accessibility and performance enhancements
+
+Creative & Editorial Contributions
+writing, editing, or refining content
+
+improving clarity, structure, or tone
+
+educational materials, guides, or course modules
+
+translations or language‑support tools
+
+Design Contributions
+UI/UX improvements
+
+layout and readability enhancements
+
+visual assets aligned with Royal Archer’s brand
+
+Community Contributions
+discussions, proposals, and planning
+
+documentation improvements
+
+feedback on features or content
+
+If you’re unsure whether your idea fits, open an Issue — conversation is part of collaboration.
+
+📬 3. How to Get Started
+Step 1 — Fork the Repository
+Create your own working copy.
+
+Step 2 — Create a Branch
+Use clear, descriptive names such as:
+feature/editor-tool, fix/typo, docs/update-guides.
+
+Step 3 — Make Your Changes
+Follow the existing style and structure.
+Keep your work focused and well‑documented.
+
+Step 4 — Submit a Pull Request (PR)
+Include:
+
+a short summary of your changes
+
+why they matter
+
+any notes for review
+
+Your PR will be reviewed by the project owner.
+
+📐 4. Standards & Expectations
+To maintain quality:
+
+write clean, readable code
+
+document your changes
+
+keep functions and files focused
+
+maintain consistent tone and style in written content
+
+avoid unnecessary dependencies
+
+ensure accessibility and clarity
+
+For major changes, open an Issue first so we can discuss direction.
+
+🤝 5. Collaboration Culture
+Royal Archer values:
+
+clarity
+
+kindness
+
+respect
+
+thoughtful communication
+
+craftsmanship
+
+shared purpose
+
+We build with care — for the work, for each other, and for the writers and readers we serve.
+
+All contributors must follow the project’s Code of Conduct (to be added or linked).
+
+🔐 6. Licensing of Contributions
+By contributing, you agree that:
+
+your contribution is your original work
+
+you license it under the MIT License
+
+you accept the additional terms in COLLABORATION‑TERMS.md
+
+contributions do not automatically grant co‑ownership
+
+Ownership of the project remains with Galina B. Nelson unless a separate written agreement is made.
+
+🌱 7. Pathway to Deeper Collaboration
+If you wish to become more involved — through long‑term development, 
+editorial partnership, or potential future co‑ownership — you are welcome to express your interest.
+
+Co‑ownership is based on:
+
+consistent contribution
+
+shared vision
+
+trust
+
+commitment
+
+alignment with Royal Archer’s mission
+
+A separate written agreement is required for any ownership or revenue‑sharing arrangement.
+
+📣 8. Communication
+Use GitHub Issues and Pull Requests for:
+
+questions
+
+proposals
+
+bug reports
+
+feature ideas
+
+discussions
+
+Clear communication helps the project evolve gracefully.
+
+💬 9. Thank You
+Your time, creativity, and expertise matter.
+Whether you refine a sentence, design a feature, or build a new tool, your 
+contribution helps Royal Archer grow into a home for writers, readers, and creators.
+
+We’re building something meaningful — and you’re invited to be part of it.
+
+💬 9. Thank You
+Your time, creativity, and expertise matter.
+Whether you fix a typo or build a major feature, your contribution helps shape the future of this project.
+
+We’re building something meaningful — and you’re invited to be part of it.
