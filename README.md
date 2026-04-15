@@ -110,8 +110,160 @@ https://royalarcher.org
 If you’re interested in contributing, collaborating, or exploring 
 future partnership, feel free to open an Issue or reach out through the project channels.
 
+Joining the Royal Archer Team
+How contributors may participate — and what team membership actually means
+Royal Archer Editorial Studio is the personal creative and professional project of Galina B. Nelson.
+All intellectual property, direction, decisions, and ownership belong exclusively to her.
+
+This document explains how others may contribute, reuse materials, or express interest, 
+while making it absolutely clear that team membership is granted only by the project owner.
+
+1. Ownership and Authority
+Royal Archer is:
+
+created by Galina B. Nelson
+
+owned by Galina B. Nelson
+
+directed by Galina B. Nelson
+
+No contributor, collaborator, or user becomes part of the Royal Archer 
+team unless explicitly invited by the project owner.
+
+Copying files, forking the repository, or contributing does not grant:
+
+team membership
+
+authority
+
+decision‑making power
+
+ownership
+
+revenue rights
+
+Royal Archer remains fully under Galina’s stewardship.
+
+2. Reusing or Copying the Files
+You are welcome to:
+
+fork the repository
+
+copy and paste files into your own project
+
+adapt the documents for your own use
+
+as long as you:
+
+credit Royal Archer Editorial Studio
+
+link back to the original repository
+
+respect the MIT License
+
+accept the supplemental terms in COLLABORATION‑TERMS.md
+
+Reusing the files does not make you a team member.
+It simply means you are using open‑source materials responsibly.
+
+3. How to Contribute (Optional)
+If you want to contribute to the project:
+
+Explore the repository
+
+Read the contribution guidelines
+
+Open an Issue or Discussion
+
+Communicate respectfully
+
+Submit meaningful contributions
+
+Contributions are welcome but do not imply membership.
+
+4. How Someone Actually Joins the Team
+Team membership is not automatic and not open enrollment.
+
+A person may join the Royal Archer team only if:
+
+they communicate directly with the project owner
+
+they demonstrate alignment with the mission
+
+they contribute meaningfully over time
+
+and Galina explicitly invites them
+
+There is no other pathway.
+
+5. Co‑Ownership (Future, Optional, and Rare)
+Co‑ownership is:
+
+not currently offered
+
+not automatic
+
+not tied to contributions
+
+not granted by copying files
+
+not implied by participation
+
+If co‑ownership ever becomes relevant, it will require:
+
+long‑term collaboration
+
+trust
+
+alignment
+
+and a separate written agreement initiated by Galina B. Nelson
+
+At this time, Royal Archer remains solely owned by Galina B. Nelson
+
+6. Current Status
+At present:
+
+Galina B. Nelson is the only human working on the project
+
+All collaboration is with AI assistants
+
+No external contributors are part of the team
+
+No revenue has been generated yet
+
+The project is in active development, 40+ hours per week
+
+This file exists to prepare for future possibilities, not to imply current team membership.
+
+7. AI Collaboration
+Royal Archer is built with the assistance of AI tools that support:
+
+drafting
+
+structuring
+
+editing
+
+planning
+
+documentation
+
+technical guidance
+
+AI does not hold ownership, rights, or decision‑making authority.
+It is a creative and technical partner that helps accelerate the work, 
+but all authorship, direction, and stewardship belong to Galina.
+
+If you wish to acknowledge AI assistance in your own fork or adaptation
+of this project, you are welcome to do so — but it is not required.
+
+The Royal Archer team is not open for automatic joining — 
+it is built with intention, care, and selective collaboration.
+
 💬 Thank You
 Thank you for being here.
-Every contribution — a line of code, a paragraph of text, a design improvement, a thoughtful idea — helps Royal Archer grow into a place where stories and tools are crafted with care.
+Every contribution — a line of code, a paragraph of text, a design improvement, 
+a thoughtful idea — helps Royal Archer grow into a place where stories and tools are crafted with care.
 
 Galina B. Nelson @Galyushka
