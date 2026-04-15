@@ -1,181 +1,84 @@
-CONTRIBUTING.md
-Guidelines for Contributing to the Royal Archer Project
-Thank you for your interest in contributing to Royal Archer, 
-an editorial studio dedicated to elevating stories, 
-nurturing writers, and building tools that support creativity, 
-clarity, and craft.
-Your participation helps shape a platform where literature, 
-education, and digital innovation meet.
+SSupplemental Collaboration & Co‑Ownership Terms for the Royal Archer Project
+Copyright (c) 2026 Galina B. Nelson
 
-🌟 1. Our Mission
-Royal Archer exists to support:
+This document supplements the MIT License included in this repository.
+It does not replace or limit the MIT License.
+Instead, it establishes additional terms for contributors who wish to 
+collaborate on the long‑term development of the Royal Archer platform 
+and potentially participate in future co‑ownership of the editorial studio, 
+digital tools, or related services.
 
-editorial and publishing services
+1. Original Ownership
+1.1. All code, text, designs, documentation, branding, and creative assets 
+present in this repository prior to any third‑party contributions are the 
+exclusive intellectual property of Galina B. Nelson.
+1.2. Publishing this repository under the MIT License does not transfer
+ownership of the original work or the Royal Archer brand.
 
-creative writing and storytelling
+2. Contributor License Grant
+2.1. By submitting a pull request or any other contribution (“Contribution”), 
+the contributor grants Galina B. Nelson a perpetual, worldwide, irrevocable, 
+royalty‑free license to use, modify, distribute, and incorporate the Contribution
+into the project and any future commercial or non‑commercial versions.
+2.2. Contributors retain copyright to their own Contributions.
 
-educational courses and articles
+3. Contributor Certification
+By contributing, each contributor confirms that:
 
-digital tools and services for writers and readers
+the Contribution is their original work
 
-community collaboration and mentorship
+they have the legal right to license it
 
-future co‑ownership opportunities for long‑term contributors
+it does not infringe on any third‑party rights
 
-This repository contains the technical and creative foundations of the Royal Archer ecosystem.
-Contributions should strengthen the platform’s quality, clarity, and usefulness.
+it is provided under the MIT License and these supplemental terms
 
-🛠️ 2. Ways You Can Contribute
-We welcome contributions from many disciplines:
+This protects both the contributor and the project.
 
-Technical Contributions
-features, improvements, and bug fixes
+4. Pathway to Future Co‑Ownership
+4.1. Contributing to this repository does not automatically grant ownership, 
+equity, or revenue share in Royal Archer or any related platform.
+4.2. Contributors may become co‑owners only through a separate written 
+agreement signed by all existing owners.
+4.3. Considerations for co‑ownership may include:
 
-digital tools for writers, editors, and learners
+consistent, meaningful contributions
 
-automation, integrations, and backend logic
+editorial, technical, or educational leadership
 
-accessibility and performance enhancements
+long‑term commitment to the project
 
-Creative & Editorial Contributions
-writing, editing, or refining content
+alignment with Royal Archer’s mission and values
 
-improving clarity, structure, or tone
+ethical and collaborative behavior
 
-educational materials, guides, or course modules
+4.4. No contributor may claim co‑ownership based solely on code or content contributions.
 
-translations or language‑support tools
+5. Project Governance
+5.1. Until a formal co‑ownership agreement is created, all major decisions regarding project
+direction, editorial standards, platform architecture, and governance are made by the project owner (Galina B. Nelson).
+5.2. Contributors agree to follow the project’s Code of Conduct and collaboration guidelines.
 
-Design Contributions
-UI/UX improvements
+6. Branding, Creative Assets, and Editorial Identity
+6.1. All branding elements—including the Royal Archer name, logo, editorial voice, written 
+content, course materials, and creative assets—are not covered by the MIT License and remain 
+the exclusive property of Galina B. Nelson unless otherwise stated.
+6.2. Contributors may not use the Royal Archer brand for independent commercial purposes without written permission.
+6.3. Any new creative assets contributed to the project must align with the studio’s tone, values, and editorial standards.
 
-layout and readability enhancements
+7. Commercial Use of the Future Platform
+7.1. The open‑source code in this repository may be used freely under the MIT License.
+7.2. The official Royal Archer platform, including editorial services, courses,
+digital tools, and community features, may operate under separate commercial terms.
+7.3. Contributors who become co‑owners will participate in revenue‑sharing and 
+decision‑making according to a future written agreement.
 
-visual assets aligned with Royal Archer’s brand
+8. Warranty Disclaimer
+This Addendum does not modify the MIT License warranty disclaimer.
+The software is provided “as is”, without warranty of any kind.
 
-Community Contributions
-discussions, proposals, and planning
-
-documentation improvements
-
-feedback on features or content
-
-If you’re unsure whether your idea fits, open an Issue — conversation is part of collaboration.
-
-📬 3. How to Get Started
-Step 1 — Fork the Repository
-Create your own working copy.
-
-Step 2 — Create a Branch
-Use clear, descriptive names such as:
-feature/editor-tool, fix/typo, docs/update-guides.
-
-Step 3 — Make Your Changes
-Follow the existing style and structure.
-Keep your work focused and well‑documented.
-
-Step 4 — Submit a Pull Request (PR)
-Include:
-
-a short summary of your changes
-
-why they matter
-
-any notes for review
-
-Your PR will be reviewed by the project owner.
-
-📐 4. Standards & Expectations
-To maintain quality:
-
-write clean, readable code
-
-document your changes
-
-keep functions and files focused
-
-maintain consistent tone and style in written content
-
-avoid unnecessary dependencies
-
-ensure accessibility and clarity
-
-For major changes, open an Issue first so we can discuss direction.
-
-🤝 5. Collaboration Culture
-Royal Archer values:
-
-clarity
-
-kindness
-
-respect
-
-thoughtful communication
-
-craftsmanship
-
-shared purpose
-
-We build with care — for the work, for each other, and for the writers and readers we serve.
-
-All contributors must follow the project’s Code of Conduct (to be added or linked).
-
-🔐 6. Licensing of Contributions
-By contributing, you agree that:
-
-your contribution is your original work
-
-you license it under the MIT License
-
-you accept the additional terms in COLLABORATION‑TERMS.md
-
-contributions do not automatically grant co‑ownership
-
-Ownership of the project remains with Galina B. Nelson unless a separate written agreement is made.
-
-🌱 7. Pathway to Deeper Collaboration
-If you wish to become more involved — through long‑term development, 
-editorial partnership, or potential future co‑ownership — you are welcome to express your interest.
-
-Co‑ownership is based on:
-
-consistent contribution
-
-shared vision
-
-trust
-
-commitment
-
-alignment with Royal Archer’s mission
-
-A separate written agreement is required for any ownership or revenue‑sharing arrangement.
-
-📣 8. Communication
-Use GitHub Issues and Pull Requests for:
-
-questions
-
-proposals
-
-bug reports
-
-feature ideas
-
-discussions
-
-Clear communication helps the project evolve gracefully.
-
-💬 9. Thank You
-Your time, creativity, and expertise matter.
-Whether you refine a sentence, design a feature, or build a new tool, your 
-contribution helps Royal Archer grow into a home for writers, readers, and creators.
-
-We’re building something meaningful — and you’re invited to be part of it.
-
-💬 9. Thank You
-Your time, creativity, and expertise matter.
-Whether you fix a typo or build a major feature, your contribution helps shape the future of this project.
-
-We’re building something meaningful — and you’re invited to be part of it.
+9. Relationship to the MIT License
+9.1. In the event of any conflict between this Addendum and the MIT License, 
+the MIT License governs the use of the code.
+9.2. These supplemental terms govern collaboration, contributions, and 
+future co‑ownership, not the licensing of the code itself.
