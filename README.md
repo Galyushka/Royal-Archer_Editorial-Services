@@ -113,3 +113,5 @@ future partnership, feel free to open an Issue or reach out through the project 
 💬 Thank You
 Thank you for being here.
 Every contribution — a line of code, a paragraph of text, a design improvement, a thoughtful idea — helps Royal Archer grow into a place where stories and tools are crafted with care.
+
+Galina B. Nelson @Galyushka
