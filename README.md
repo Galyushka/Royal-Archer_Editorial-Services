@@ -7,6 +7,8 @@ COLLABORATION-TERMS.md.
 Royal Archer — Editorial Studio & Creative Platform
 A home for stories, craft, and collaborative creation.
 
+https://img.shields.io/badge/Royal_Archer-Contributor-8A2BE2?style=for-the-badge&logo=feather&logoColor=white
+
 Royal Archer is an editorial and creative studio dedicated to
 helping writers shape meaningful stories.
 This repository contains the technical, editorial, and educational
